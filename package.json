@@ -1,0 +1,14 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "A Sample Application for Node with Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prakash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
